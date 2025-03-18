@@ -1,0 +1,1 @@
+#Tkinter já está incluído no Python padrão (não precisa ser instalado via pip)
