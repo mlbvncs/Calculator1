@@ -21,6 +21,7 @@ Create a graphical interface that simulates all the basic functionalities of a c
 
 1. Open the integrated terminal.
 2. Run the main.py archive:
-   ```bash
+
+   ```
    python main.py
    ```
