@@ -1,10 +1,10 @@
 # Calculator1
 
-Graphical interface design for a calculator using Python (Tkinter).
+Graphical user interface (GUI) design for a calculator using Python (Tkinter).
 
 ## Objectives
 
-Create a graphical interface that simulates all the basic functionalities of a calculator.
+Create a graphical user interface that simulates all the basic functionalities of a calculator.
 
 ## Getting Started
 
