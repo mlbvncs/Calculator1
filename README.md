@@ -15,6 +15,7 @@ Create a graphical interface that simulates all the basic functionalities of a c
 ### Installation
 
 1. Fork this repository.
+   
 2. Open the project in your compiler.
 
 ### Running the Code
